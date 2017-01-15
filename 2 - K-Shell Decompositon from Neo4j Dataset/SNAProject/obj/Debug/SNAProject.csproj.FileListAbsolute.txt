@@ -9,3 +9,14 @@ C:\Users\Kemal\Documents\Visual Studio 2015\Projects\SNAProject\SNAProject\bin\D
 C:\Users\Kemal\Documents\Visual Studio 2015\Projects\SNAProject\SNAProject\obj\Debug\SNAProject.csprojResolveAssemblyReference.cache
 C:\Users\Kemal\Documents\Visual Studio 2015\Projects\SNAProject\SNAProject\obj\Debug\SNAProject.exe
 C:\Users\Kemal\Documents\Visual Studio 2015\Projects\SNAProject\SNAProject\obj\Debug\SNAProject.pdb
+D:\Marmara 1. Sınıf\Social network analisis\Project\SNA Project\K-Shell-Decompositon\2 - K-Shell Decompositon from Neo4j Dataset\SNAProject\bin\Debug\SNAProject.exe.config
+D:\Marmara 1. Sınıf\Social network analisis\Project\SNA Project\K-Shell-Decompositon\2 - K-Shell Decompositon from Neo4j Dataset\SNAProject\obj\Debug\SNAProject.exe
+D:\Marmara 1. Sınıf\Social network analisis\Project\SNA Project\K-Shell-Decompositon\2 - K-Shell Decompositon from Neo4j Dataset\SNAProject\obj\Debug\SNAProject.pdb
+D:\Marmara 1. Sınıf\Social network analisis\Project\SNA Project\K-Shell-Decompositon\2 - K-Shell Decompositon from Neo4j Dataset\SNAProject\bin\Debug\SNAProject.exe
+D:\Marmara 1. Sınıf\Social network analisis\Project\SNA Project\K-Shell-Decompositon\2 - K-Shell Decompositon from Neo4j Dataset\SNAProject\bin\Debug\SNAProject.pdb
+D:\Marmara 1. Sınıf\Social network analisis\Project\SNA Project\K-Shell-Decompositon\2 - K-Shell Decompositon from Neo4j Dataset\SNAProject\bin\Debug\Neo4jClient.dll
+D:\Marmara 1. Sınıf\Social network analisis\Project\SNA Project\K-Shell-Decompositon\2 - K-Shell Decompositon from Neo4j Dataset\SNAProject\bin\Debug\Newtonsoft.Json.dll
+D:\Marmara 1. Sınıf\Social network analisis\Project\SNA Project\K-Shell-Decompositon\2 - K-Shell Decompositon from Neo4j Dataset\SNAProject\bin\Debug\Neo4jClient.pdb
+D:\Marmara 1. Sınıf\Social network analisis\Project\SNA Project\K-Shell-Decompositon\2 - K-Shell Decompositon from Neo4j Dataset\SNAProject\bin\Debug\Neo4jClient.xml
+D:\Marmara 1. Sınıf\Social network analisis\Project\SNA Project\K-Shell-Decompositon\2 - K-Shell Decompositon from Neo4j Dataset\SNAProject\bin\Debug\Newtonsoft.Json.xml
+D:\Marmara 1. Sınıf\Social network analisis\Project\SNA Project\K-Shell-Decompositon\2 - K-Shell Decompositon from Neo4j Dataset\SNAProject\obj\Debug\SNAProject.csprojResolveAssemblyReference.cache

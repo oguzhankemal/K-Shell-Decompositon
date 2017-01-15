@@ -144,14 +144,13 @@ namespace SNAProject
                 Console.WriteLine("Employees ordered by their k-shell values :");
 
                 //The nodes list is ordered  by descending k-shell value
-                int i = 1;
                 foreach (var item in ordered.OrderByDescending(o => o.k_shell))
                 {
                     //In order to get employee's specific values, we find it from employee list by using Id of the employee
                     Node<Employee> em = employees.Where(e => e.Data.uID == item.id).FirstOrDefault();
 
                     //Then we write the k-shell value, k degree and name of the employee name
-                    Console.WriteLine(i + " - [ k-shell : " + item.k_shell + " ] - [ k : " + item.k + " ] - [ Name : " + em.Data.fullName + " ]");
+                    Console.WriteLine("[ k-shell : " + item.k_shell + " ] - [ k : " + item.k + " ] - [ Name : " + em.Data.fullName + " ]");
                 }
 
                 #endregion
