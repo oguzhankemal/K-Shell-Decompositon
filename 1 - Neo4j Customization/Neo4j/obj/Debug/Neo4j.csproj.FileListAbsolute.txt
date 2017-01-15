@@ -1,0 +1,31 @@
+C:\Users\oguzhankemal\Source\Repos\Enerjim\Neo4j\Neo4j\bin\Debug\Neo4j.exe.config
+C:\Users\oguzhankemal\Source\Repos\Enerjim\Neo4j\Neo4j\bin\Debug\Neo4j.exe
+C:\Users\oguzhankemal\Source\Repos\Enerjim\Neo4j\Neo4j\bin\Debug\Neo4j.pdb
+C:\Users\oguzhankemal\Source\Repos\Enerjim\Neo4j\Neo4j\bin\Debug\Neo4jClient.dll
+C:\Users\oguzhankemal\Source\Repos\Enerjim\Neo4j\Neo4j\bin\Debug\Newtonsoft.Json.dll
+C:\Users\oguzhankemal\Source\Repos\Enerjim\Neo4j\Neo4j\bin\Debug\Neo4jClient.pdb
+C:\Users\oguzhankemal\Source\Repos\Enerjim\Neo4j\Neo4j\bin\Debug\Neo4jClient.xml
+C:\Users\oguzhankemal\Source\Repos\Enerjim\Neo4j\Neo4j\bin\Debug\Newtonsoft.Json.xml
+C:\Users\oguzhankemal\Source\Repos\Enerjim\Neo4j\Neo4j\obj\Debug\Neo4j.csprojResolveAssemblyReference.cache
+C:\Users\oguzhankemal\Source\Repos\Enerjim\Neo4j\Neo4j\obj\Debug\Neo4j.exe
+C:\Users\oguzhankemal\Source\Repos\Enerjim\Neo4j\Neo4j\obj\Debug\Neo4j.pdb
+D:\Marmara 1. Sınıf\Social network analisis\Project\Neo4j\Neo4j\bin\Debug\Neo4j.exe.config
+D:\Marmara 1. Sınıf\Social network analisis\Project\Neo4j\Neo4j\bin\Debug\Neo4j.exe
+D:\Marmara 1. Sınıf\Social network analisis\Project\Neo4j\Neo4j\bin\Debug\Neo4j.pdb
+D:\Marmara 1. Sınıf\Social network analisis\Project\Neo4j\Neo4j\bin\Debug\Neo4jClient.dll
+D:\Marmara 1. Sınıf\Social network analisis\Project\Neo4j\Neo4j\bin\Debug\Newtonsoft.Json.dll
+D:\Marmara 1. Sınıf\Social network analisis\Project\Neo4j\Neo4j\bin\Debug\Neo4jClient.pdb
+D:\Marmara 1. Sınıf\Social network analisis\Project\Neo4j\Neo4j\bin\Debug\Neo4jClient.xml
+D:\Marmara 1. Sınıf\Social network analisis\Project\Neo4j\Neo4j\bin\Debug\Newtonsoft.Json.xml
+D:\Marmara 1. Sınıf\Social network analisis\Project\Neo4j\Neo4j\obj\Debug\Neo4j.exe
+D:\Marmara 1. Sınıf\Social network analisis\Project\Neo4j\Neo4j\obj\Debug\Neo4j.pdb
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\Neo4j\Neo4j\bin\Debug\Neo4j.exe.config
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\Neo4j\Neo4j\obj\Debug\Neo4j.exe
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\Neo4j\Neo4j\obj\Debug\Neo4j.pdb
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\Neo4j\Neo4j\bin\Debug\Neo4j.exe
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\Neo4j\Neo4j\bin\Debug\Neo4j.pdb
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\Neo4j\Neo4j\bin\Debug\Neo4jClient.dll
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\Neo4j\Neo4j\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\Neo4j\Neo4j\bin\Debug\Neo4jClient.pdb
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\Neo4j\Neo4j\bin\Debug\Neo4jClient.xml
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\Neo4j\Neo4j\bin\Debug\Newtonsoft.Json.xml

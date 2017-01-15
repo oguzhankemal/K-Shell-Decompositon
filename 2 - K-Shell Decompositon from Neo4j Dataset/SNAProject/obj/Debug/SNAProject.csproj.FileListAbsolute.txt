@@ -1,0 +1,11 @@
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\SNAProject\SNAProject\bin\Debug\SNAProject.exe.config
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\SNAProject\SNAProject\bin\Debug\SNAProject.exe
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\SNAProject\SNAProject\bin\Debug\SNAProject.pdb
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\SNAProject\SNAProject\bin\Debug\Neo4jClient.dll
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\SNAProject\SNAProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\SNAProject\SNAProject\bin\Debug\Neo4jClient.pdb
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\SNAProject\SNAProject\bin\Debug\Neo4jClient.xml
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\SNAProject\SNAProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\SNAProject\SNAProject\obj\Debug\SNAProject.csprojResolveAssemblyReference.cache
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\SNAProject\SNAProject\obj\Debug\SNAProject.exe
+C:\Users\Kemal\Documents\Visual Studio 2015\Projects\SNAProject\SNAProject\obj\Debug\SNAProject.pdb
