@@ -29,3 +29,14 @@ C:\Users\Kemal\Documents\Visual Studio 2015\Projects\Neo4j\Neo4j\bin\Debug\Newto
 C:\Users\Kemal\Documents\Visual Studio 2015\Projects\Neo4j\Neo4j\bin\Debug\Neo4jClient.pdb
 C:\Users\Kemal\Documents\Visual Studio 2015\Projects\Neo4j\Neo4j\bin\Debug\Neo4jClient.xml
 C:\Users\Kemal\Documents\Visual Studio 2015\Projects\Neo4j\Neo4j\bin\Debug\Newtonsoft.Json.xml
+D:\Marmara 1. Sınıf\Social network analisis\Project\K-Shell-Decompositon\1 - Neo4j Customization\Neo4j\bin\Debug\Neo4j.exe.config
+D:\Marmara 1. Sınıf\Social network analisis\Project\K-Shell-Decompositon\1 - Neo4j Customization\Neo4j\obj\Debug\Neo4j.exe
+D:\Marmara 1. Sınıf\Social network analisis\Project\K-Shell-Decompositon\1 - Neo4j Customization\Neo4j\obj\Debug\Neo4j.pdb
+D:\Marmara 1. Sınıf\Social network analisis\Project\K-Shell-Decompositon\1 - Neo4j Customization\Neo4j\bin\Debug\Neo4j.exe
+D:\Marmara 1. Sınıf\Social network analisis\Project\K-Shell-Decompositon\1 - Neo4j Customization\Neo4j\bin\Debug\Neo4j.pdb
+D:\Marmara 1. Sınıf\Social network analisis\Project\K-Shell-Decompositon\1 - Neo4j Customization\Neo4j\bin\Debug\Neo4jClient.dll
+D:\Marmara 1. Sınıf\Social network analisis\Project\K-Shell-Decompositon\1 - Neo4j Customization\Neo4j\bin\Debug\Newtonsoft.Json.dll
+D:\Marmara 1. Sınıf\Social network analisis\Project\K-Shell-Decompositon\1 - Neo4j Customization\Neo4j\bin\Debug\Neo4jClient.pdb
+D:\Marmara 1. Sınıf\Social network analisis\Project\K-Shell-Decompositon\1 - Neo4j Customization\Neo4j\bin\Debug\Neo4jClient.xml
+D:\Marmara 1. Sınıf\Social network analisis\Project\K-Shell-Decompositon\1 - Neo4j Customization\Neo4j\bin\Debug\Newtonsoft.Json.xml
+D:\Marmara 1. Sınıf\Social network analisis\Project\K-Shell-Decompositon\1 - Neo4j Customization\Neo4j\obj\Debug\Neo4j.csprojResolveAssemblyReference.cache

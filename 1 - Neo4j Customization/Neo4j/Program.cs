@@ -11,6 +11,9 @@ namespace Neo4j
     class Program
     {
         private static bool isDeleted = false;
+        
+        //static List<int> ids = new List<int> { 1241, 1185, 1204, 1167, 1103, 1229, 1164, 1286, 1258,1179,1276,1168 };
+
         static void Main(string[] args)
         {
             List<OldNeo4j> old = new List<OldNeo4j>();

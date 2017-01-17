@@ -150,7 +150,7 @@ namespace SNAProject
                     Node<Employee> em = employees.Where(e => e.Data.uID == item.id).FirstOrDefault();
 
                     //Then we write the k-shell value, k degree and name of the employee name
-                    Console.WriteLine("[ k-shell : " + item.k_shell + " ] - [ k : " + item.k + " ] - [ Name : " + em.Data.fullName + " ]");
+                    Console.WriteLine("[ id : " + item.id + " ] - [ k-shell : " + item.k_shell + " ] - [ k : " + item.k + " ] - [ Name : " + em.Data.fullName + " ]");
                 }
 
                 #endregion
