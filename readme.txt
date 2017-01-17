@@ -4,5 +4,10 @@ If you have proper data set, you can run K-Shell Decompositon from Neo4j Dataset
 
 For the example of the data set, you can look at article,images and data set under Doc file.
 
+Visual Studio 2015 
+.Net Version 4.5.2
+
+Neo4j 3.1.0
+
 Oguzhan Kemal
 oguzhankml@gmail.com
